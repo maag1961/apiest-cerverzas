@@ -1,0 +1,26 @@
+{
+  "name": "apiest-cerverzas",
+  "version": "1.0.0",
+  "description": "descripcion",
+  "main": "prueba.js",
+  "scripts": {
+    "start": "node app/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maag1961/apiest-cerverzas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maag1961/apiest-cerverzas/issues"
+  },
+  "homepage": "https://github.com/maag1961/apiest-cerverzas#readme",
+  "devDependencies": {
+    "eslint": "^3.5.0"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
